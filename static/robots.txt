@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: https://remotepetga.prismic.io/sitemap.xml
